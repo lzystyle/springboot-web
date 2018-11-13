@@ -1,8 +1,8 @@
-package com.example.demo.service.impl;
+package com.example.demo.service.user.impl;
 
 import com.example.demo.entity.UserInfo;
-import com.example.demo.mapper.UserInfoMapper;
-import com.example.demo.service.UserInfoService;
+import com.example.demo.mapper.user.UserInfoMapper;
+import com.example.demo.service.user.UserInfoService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
